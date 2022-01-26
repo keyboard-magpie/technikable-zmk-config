@@ -61,7 +61,7 @@
    &kp Q       &kp W &kp E &kp R &kp T               &kp C_VOL_DN   &kp C_VOL_UP    &kp Y &kp U  &kp I     &kp O   &kp P          
    &mt LCTRL A &kp S &kp D &kp F &kp G               &kp PAGE_DOWN  &kp PAGE_UP     &kp H &kp J  &kp K     &kp L   &mt RCTRL SEMI
    &mt LSHFT Z &kp X &kp C &kp V &kp B               &kp LBKT       &kp RBKT        &kp N &kp M  &kp COMMA &kp DOT &mt RSHFT FSLH
-          &mt LGUI ESC &mt LALT RET &lt NAV SPACE    &trans         &trans          &lt SYM SPACE &kp LSFT &mt RSFT TAB
+          &mt LGUI ESC &mt LALT RET &lt NAV SPACE    &lt NAV SPACE  &lt SYM SPACE   &lt SYM SPACE &kp LSFT &mt RSFT TAB
                         >;
                 };
 
