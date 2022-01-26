@@ -29,7 +29,15 @@
         compatible = "zmk,combos";
 
 
-          COMBO(backspace, &kp BACKSPACE, 14 15)
+          COMBO(backspace, &kp BACKSPACE, 13 14)
+          COMBO(escape, &kp ESCAPE, 1 2)
+          COMBO(quote, &kp APOSTROPHE, 31 32)
+          COMBO(minus, &kp MINUS, 25 26)
+          COMBO(less, &kp LESS_THAN, 19 20)
+          COMBO(more, &kp GREATER_THAN, 21 22)
+          COMBO(score, &kp UNDER, 32 33)
+          COMBO(slash, &kp BACKSLASH, 10 11)
+          COMBO(btc, &bt BT_CLR, 0 35)
 
 
 
